@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋, me chamo Gabriel Sant'Ana, estou cursando 2º Semestre em analise e desenvolvimento de sistemas, Atualmente estou programando em VBA (EXCEL) para otimização de tarefas. 
+Tenho muita vontade de aprender e resolver problemas 🎯 .
 
-<!--
-**GabrielSantAna1997/GabrielSantAna1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conhecimento básicos que tenho em PROGRAMAÇÂO:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -Desenvolvimento de aplicações web com Java;🧩              
+  -Lógicas de Programação; 🖥️  
+  -Desenvolvimento Android; 📱  
+  -Python; 📖  
+  -SQLite; 🔋  
+  -VBA. 💻
+  
+  Aqui está algumas informações interessantes🚀  
+  Link do meu Linkedin: https://www.linkedin.com/in/gabriel-sant-ana-b441aa1a8/
+  

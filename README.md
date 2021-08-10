@@ -9,12 +9,13 @@ Tenho muita vontade de aprender e resolver problemas 🎯 .
 Conhecimento básicos que tenho em PROGRAMAÇÂO:
 
 
-  -Desenvolvimento de aplicações web com Java;🧩              
+  -VBA; 💻             
   -Lógicas de Programação; 🖥️  
   -Desenvolvimento Android; 📱  
-  -Python; 📖  
-  -SQLite; 🔋  
-  -VBA. 💻
+  -Python; 📖 
+  -CSS E HTML;
+  -SQLite; 🔋    
+  -Desenvolvimento de aplicações web com Java.🧩 
   
   Aqui está algumas informações interessantes🚀  
   Link do meu Linkedin: https://www.linkedin.com/in/gabriel-sant-ana-b441aa1a8/

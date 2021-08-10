@@ -13,6 +13,7 @@ Conhecimento básicos que tenho em PROGRAMAÇÂO:
   -Lógicas de Programação; 🖥️  
   -Desenvolvimento Android; 📱  
   -Python; 📖 
+  
   -CSS E HTML;
   -SQLite; 🔋    
   -Desenvolvimento de aplicações web com Java.🧩 

@@ -3,7 +3,7 @@
 
 
 
-### Olá 👋, me chamo Gabriel Sant'Ana, estou cursando 2º Semestre em analise e desenvolvimento de sistemas, Atualmente estou programando em VBA (EXCEL) para otimização de tarefas. 
+### Olá 👋, me chamo Gabriel Sant'Ana, estou cursando 4º Semestre em analise e desenvolvimento de sistemas, Atualmente estou programando em VBA (EXCEL) para otimização de tarefas. 
 Tenho muita vontade de aprender e resolver problemas 🎯 .
 
 Conhecimento básicos que tenho em PROGRAMAÇÂO:

@@ -9,9 +9,12 @@ Tenho muita vontade de aprender e resolver problemas 🎯 .
 Conhecimento básicos que tenho em PROGRAMAÇÂO:
 
 
-  -VBA; 💻             
+  -VBA; 💻 
+  
   -Lógicas de Programação; 🖥️  
-  -Desenvolvimento Android; 📱  
+  
+  -Desenvolvimento Android; 📱 
+  
   -Python; 📖 
   
   -CSS E HTML;

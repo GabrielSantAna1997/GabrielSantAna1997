@@ -15,7 +15,8 @@ Conhecimento básicos que tenho em PROGRAMAÇÂO:
   -Python; 📖 
   
   -CSS E HTML;
-  -SQLite; 🔋    
+  -SQLite; 🔋
+  
   -Desenvolvimento de aplicações web com Java.🧩 
   
   Aqui está algumas informações interessantes🚀  

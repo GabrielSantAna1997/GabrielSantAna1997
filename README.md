@@ -9,17 +9,20 @@ Tenho muita vontade de aprender e resolver problemas 🎯 .
 
 Skills Técnicas:
 
+
 ----🖥️ FRONTEND 🖥️----
 ● Vue.js
 ● Html e css
 
 ----🧩 BACKEND 🧩----
+
 ● Laravel (PHP)
 ● Node.js express
 ● Visual Basic for Applications (VBA, Macros)
 
 
 ----🔋 BANCO DE DADOS 🔋----
+
 ● Oracle SQL
 ● MongoDB
 ● SQL lite

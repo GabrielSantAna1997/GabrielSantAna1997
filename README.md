@@ -11,21 +11,21 @@ Skills Técnicas:
 
 
 ----🖥️ FRONTEND 🖥️----<br/>
-● Vue.js
-● Html e css
+● Vue.js<br/>
+● Html e css<br/>
 
-----🧩 BACKEND 🧩----
+----🧩 BACKEND 🧩----<br/>
 
-● Laravel (PHP)
-● Node.js express
-● Visual Basic for Applications (VBA, Macros)
+● Laravel (PHP)<br/>
+● Node.js express<br/>
+● Visual Basic for Applications (VBA, Macros)<br/>
 
 
-----🔋 BANCO DE DADOS 🔋----
+----🔋 BANCO DE DADOS 🔋----<br/>
 
-● Oracle SQL
-● MongoDB
-● SQL lite
+● Oracle SQL<br/>
+● MongoDB<br/>
+● SQL lite<br/>
 
 
  

@@ -10,7 +10,7 @@ Tenho muita vontade de aprender e resolver problemas 🎯 .
 Skills Técnicas:
 
 
-----🖥️ FRONTEND 🖥️----
+----🖥️ FRONTEND 🖥️----/
 ● Vue.js
 ● Html e css
 

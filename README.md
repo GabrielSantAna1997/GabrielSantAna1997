@@ -3,7 +3,7 @@
 
 
 
-### Olá 👋, me chamo Gabriel Sant'Ana, estou cursando 4º Semestre em analise e desenvolvimento de sistemas, Atualmente sou estagiário.<br/> 
+### Olá 👋, me chamo Gabriel Sant'Ana, estou cursando 5º Semestre em analise e desenvolvimento de sistemas, Atualmente sou estagiário.<br/> 
 
 
 Skills Técnicas:

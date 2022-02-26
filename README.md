@@ -3,7 +3,9 @@
 
 
 
-### Olá 👋, me chamo Gabriel Sant'Ana, estou cursando 5º Semestre em analise e desenvolvimento de sistemas, Atualmente sou estagiário.<br/> 
+Atuando na área de desenvolvimento de software um pouco mais
+de 7 meses.Vivência com os frameworks laravel(PHP) e Vue.JS.
+Desenvolvimento e manutenção dos sistemas.
 
 
 Skills Técnicas:
@@ -12,6 +14,7 @@ Skills Técnicas:
 ----🖥️ FRONTEND 🖥️----<br/>
 ● Vue.js<br/>
 ● Html e css<br/>
+● Node.js<br/>
 
 ----🧩 BACKEND 🧩----<br/>
 
@@ -26,7 +29,11 @@ Skills Técnicas:
 ● MongoDB<br/>
 ● SQL lite<br/>
 
+----📌 FERRAMENTAS/SERVIÇO 📌----
 
+● Integrações<br/>
+● Docker<br/>
+● Postman<br/>
  
   
   Aqui está algumas informações interessantes🚀  

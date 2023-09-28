@@ -3,12 +3,7 @@
 
 
 
-Commaisde2anosnaáreadedesenvolvimentodesoftware,meufocoatualestá
-nosframeworksLaravel(PHP)eVue.js.Souexperienteemcriaremantersistemas,
-alémdeterhabilidadesemNode.js,NestJS,Express.js,Websocket,GraphQL,
-MongoDBeMySQL.TenhovivêncianaGoogleCloudPlatform(GCP)eAzure,
-buscandoelevarospadrõestécnicosepromoverinovaçãoemprojetos
-
+Com mais de 2 anos na área de desenvolvimento de software, meu foco atual está nos frameworks Laravel (PHP) e Vue.js. Sou experiente em criar e manter sistemas, além de ter habilidades em Node.js, NestJS, Express.js, Websocket, GraphQL, MongoDB e MySQL. Tenho vivência na Google Cloud Platform (GCP) e Azure, buscando elevar os padrões técnicos e promover inovação em projetos.
 
 Skills Técnicas:
 

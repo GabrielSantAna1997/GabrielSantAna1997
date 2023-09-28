@@ -3,9 +3,11 @@
 
 
 
-Atuando na área de desenvolvimento de software um pouco mais
-de 7 meses.Vivência com os frameworks laravel(PHP) e Vue.JS.
-Desenvolvimento e manutenção dos sistemas.
+Commaisde2anosnaáreadedesenvolvimentodesoftware,meufocoatualestá
+nosframeworksLaravel(PHP)eVue.js.Souexperienteemcriaremantersistemas,
+alémdeterhabilidadesemNode.js,NestJS,Express.js,Websocket,GraphQL,
+MongoDBeMySQL.TenhovivêncianaGoogleCloudPlatform(GCP)eAzure,
+buscandoelevarospadrõestécnicosepromoverinovaçãoemprojetos
 
 
 Skills Técnicas:

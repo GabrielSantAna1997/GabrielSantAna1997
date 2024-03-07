@@ -3,34 +3,40 @@
 
 
 
-Com mais de 2 anos na área de desenvolvimento de software, meu foco atual está nos frameworks Laravel (PHP) e Vue.js. Sou experiente em criar e manter sistemas, além de ter habilidades em Node.js, NestJS, Express.js, Websocket, GraphQL, MongoDB e MySQL. Tenho vivência na Google Cloud Platform (GCP) e Azure, buscando elevar os padrões técnicos e promover inovação em projetos.
+Com mais de três anos de experiência em desenvolvimento de software, destaco-me nos frameworks Laravel (PHP) e Vue.js. Além disso, possuo habilidades sólidas em Node.js, NestJS, Express.js, Websocket, GraphQL, MongoDB e MySQL. Minha experiência inclui trabalhos na Google Cloud Platform (GCP) e Azure, onde estou sempre em busca de aprimoramento técnico e comprometido em impulsionar a inovação em cada projeto que abraço.
 
 Skills Técnicas:
 
 
 ----🖥️ FRONTEND 🖥️----<br/>
-● Vue.js<br/>
+● Vue.js <br/>
+● Vuetify <br/>
 ● Html e css<br/>
-● Node.js<br/>
+● Bootstrap<br/>
+
 
 ----🧩 BACKEND 🧩----<br/>
 
 ● Laravel (PHP)<br/>
+● NestJS <br/>
 ● Node.js express<br/>
 ● Visual Basic for Applications (VBA, Macros)<br/>
 
 
 ----🔋 BANCO DE DADOS 🔋----<br/>
 
-● Oracle SQL<br/>
 ● MongoDB<br/>
 ● SQL lite<br/>
+● Oracle SQL<br/>
 
 ----📌 FERRAMENTAS/SERVIÇO 📌----
 
 ● Integrações<br/>
 ● Docker<br/>
 ● Postman<br/>
+● Redis<br/>
+● GraphQL<br/>
+
  
   
   Aqui está algumas informações interessantes🚀  

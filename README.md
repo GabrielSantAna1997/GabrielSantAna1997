@@ -37,7 +37,7 @@ Skills Técnicas:
 ● Redis<br/>
 ● GraphQL<br/>
 
- 
+Além de dominar outras tecnologias relevantes, possuo experiência com serviços em Nuvem, tais como Google PubSub, BigQuery, entre outros.
   
   Aqui está algumas informações interessantes🚀  
   Link do meu Linkedin: https://www.linkedin.com/in/gabriel-sant-ana-b441aa1a8/
